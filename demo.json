@@ -1,11 +1,17 @@
 {
-      "$jason": {
-    "background": {
+  "$jason": {
+    "head": {
+      
+    },
+    "body": {
+       "background": {
                       "type": "html",
                       "url": "https://github.com/jasonette",
                       "action":{
                         "trigger":"navigate"
                                 }
     				}
-				}
+    }
+  }
 }
+
