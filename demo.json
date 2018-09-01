@@ -1,3 +1,5 @@
+{
+  "$jason": {
 "background": {
   "type": "html",
   "url":"http:/github.com/jasonette",
@@ -5,3 +7,4 @@
     "trigger":"navigate"
   }
 }
+  }
