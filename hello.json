@@ -26,11 +26,11 @@
               "components": [
                 {
                   "type": "label",
-                  "text": "It's ALIVE!",
+                  "text": "My brand",
                   "style": {
                     "align": "center",
                     "font": "Courier-Bold",
-                    "size": "18"
+                    "size": "50"
                   }
                 },
                 {
