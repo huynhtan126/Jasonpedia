@@ -6,7 +6,7 @@
     "body": {
        "background": {
                       "type": "html",
-                      "url": "http://www.brandsvietnam.com",
+                      "url": "http://kenh14.vn",
                       "action":{
                         "trigger":"navigate"
                                 }
