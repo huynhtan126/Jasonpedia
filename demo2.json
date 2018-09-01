@@ -1,0 +1,17 @@
+{
+  "$jason": {
+  "head": {
+      
+    },
+    "body": {
+       "background": {
+                      "type": "html",
+                      "url": "http://kenh14.vn",
+                      "action":{
+                        "trigger":"navigate"
+                                }
+    				}
+    }
+  }
+}
+
