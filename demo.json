@@ -1,12 +1,10 @@
 {
   "$jason": {
-    "head": {
-      
-    },
+
     "body": {
        "background": {
                       "type": "html",
-                      "url": "https://github.com/jasonette",
+                      "url": "http://www.brandsvietnam.com",
                       "action":{
                         "trigger":"navigate"
                                 }
