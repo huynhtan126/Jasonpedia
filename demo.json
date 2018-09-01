@@ -1,7 +1,6 @@
-
-"background":{
+"background": {
   "type": "html",
-  "url":"http://www.brandsvietnam.com",
+  "url":"http:/github.com/jasonette",
   "action":{
     "trigger":"navigate"
   }
